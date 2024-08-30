@@ -1,0 +1,57 @@
+{
+  "helloWorld": "Hello World!",
+  "abouttitle": "About This App",
+  "welcomeDisplay" : "Welcome to Plant Vision!",
+  "detectFeature": "Snap a photo of a plant leaf, and our AI will instantly identify up to 30 common diseases.",
+  "recommendFeature": "Our chatbot, available in Burmese, answers your plant-related questions and provides care tips.",
+  "chatFeature": "Receive tailored crop suggestions to maximize yield and suit local conditions.",
+  "motto": "All you need for your plants is plant vision.",
+  "cropRecommend": "Crop Recommendation",
+  "detectDiseases": "Detect Your Plant Disease",
+  "detectDescription": "Search plant diseases with AI",
+  "noImage": "No image selected.",
+  "prediction": "Prediction",
+  "confidence": "Confidence",
+  "percentage": "%",
+  "treatment": "Treatment Steps",
+  "recommendation": "Recommendation",
+  "uploadGallery": "Upload from Gallery",
+  "takePhoto": "Take Photo",
+  "temperature": "Temperature in Celsius",
+  "humidity": "Humidity",
+  "rainfall": "Rainfall",
+  "recommend": "Recommend",
+  "recommendDescription": "Input these information",
+  "ok": "Okay",
+  "nitrogen": "Nitrogen",
+  "phosphorus": "Phosphorus",
+  "potassium": "Potassium",
+  "enterValue": "Enter {value}",
+  "@enterValue": {
+    "description": "Parameter message",
+    "placeholders": {
+        "value": {
+            "type": "String",
+            "example": "temperature"
+            }
+        }
+    },
+  "errorValue": "Enter a value",
+  "errorRange": "Put a value in range between {start} and {end}",
+  "@errorRange": {
+    "description": "error",
+    "placeholders": {
+      "start": {
+        "type": "int",
+        "example": "8"
+      },
+      "end": {
+        "type": "int",
+        "example": "40"
+      }
+    }
+  },
+  "chatbot" : "Plant Chatbot",
+  "askMe" : "Ask me about plants",
+  "question" : "a question"
+}

@@ -1,0 +1,57 @@
+{
+  "helloWorld": "မင်္ဂလာပါ!",
+  "abouttitle": "ဒီ app အကြောင်း",
+   "welcomeDisplay" : "Plant Vision မှကြိုဆိုပါတယ်!",
+  "detectFeature": "အပင်၏အရွက်ကိုဓာတ်ပုံရိုက်၍ အပင်ရောဂါကို AI နှင့်စမ်းသပ်ရန်",
+  "recommendFeature": "မြန်မာဘာသာစကားသုံး၍ အပင်နှင့်ပတ်သတ်သောအကြောင်းအရာများကိုမေးရန်",
+  "chatFeature": "သီးနှံအထွက်နှုန်းမြင့်မားလာ၍ ကိုယ့်ဒေသအခြေအနေအလိုက် စိုက်ပျိုးမြေနှင့် သင့်တော်သော သီးနှံများ သိရှိရန်",
+  "motto": "Plant Vision - အပင်များအတွက်အလိုအပ်ဆုံးသည်သာ",
+  "cropRecommend": "ဘယ်သီးနှံစိုက်ရမလဲ",
+  "detectDiseases": "အပင်၏အရွက်ရောဂါရှာဖွေပါ",
+  "detectDescription": "အပင်အရွက်ရောဂါကို AI ဖြင့်ရှာဖွေပါ",
+  "noImage": "သင်ပုံရွေးချယ်ထားခြင်းမရှိပါ",
+  "prediction": "ခန့်မှန်းချက်",
+  "confidence": "ဖြစ်နိုင်ချေ",
+  "percentage": "ရာခိုင်နှုန်း",
+  "treatment": "ကုသရန်အဆင့်များ",
+  "recommendation": "အကြံပေးချက်",
+  "uploadGallery": "ပုံတင်ရန်",
+  "takePhoto": "ဓာတ်ပုံရိုက်ရန်",
+  "temperature": "အပူချိန် celsius ဒီဂရီ",
+  "humidity": "စိုထိုင်းဆ",
+  "rainfall": "မိုးရေချိန်",
+  "recommend": "စိုက်ပျိုးသီးနှံအတွက်အကြံပြုချက်ယူပါ",
+  "ok": "အိုကေ",
+  "recommendDescription": "ဤအချက်အလက်များကိုထည့်သွင်းပါ",
+  "nitrogen": "နိုက်ထရိုဂျင်",
+  "phosphorus": "ဖော့စဖိုရပ်",
+  "potassium": "ပိုတက်စီယမ်",
+  "enterValue": "{value}ကိုရိုက်ထည့်ပါ",
+  "@enterValue": {
+    "description": "ကန့်သတ်ချက်တစ်ခုပါသော မက်ဆေ့ဂျ်",
+    "placeholders": {
+        "value": {
+            "type": "String",
+            "example": "အပူချိန်"
+            }
+        }
+    },
+  "errorValue": "တန်ဖိုးတစ်ခုထည့်ပါ",
+  "errorRange": "ပမာဏအား {start} မှ {end} ကြားထားပါ",
+  "@errorRange": {
+    "description": "error",
+    "placeholders": {
+      "start": {
+        "type": "int",
+        "example": "8"
+      },
+      "end": {
+        "type": "int",
+        "example": "40"
+      }
+    }
+  },
+  "chatbot" : "မြန်မာ အပင်Chatbot",
+  "askMe" : "အပင်နှင့်ပတ်သတ်သမျှမေးနိုင်ပါသည်။",
+  "question" : "မေးခွန်း"
+}
